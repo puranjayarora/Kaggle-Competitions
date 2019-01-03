@@ -38,6 +38,8 @@ Output Neuron : 1
 ## 3. DOTA Winner Prediction
 In this challenge, we had to predict the winner from 2 teams in a game of DOTA 2 (A famous Multiple Online Battle Arena (MOBA) game). The details of both the teams are provided. The dataset consists of thousands of games played in the past along with their corresponding winners. Supervised Learning is used to fit the model. 
 
+More information regarding the game can be found at "https://en.wikipedia.org/wiki/Dota_2"
+
 ### Back End 
 Logistic Regression (sklearn classifier) is used to construct a model that can fit the data. The data is preprocessed to match the requirements of the classifier. A testing accuracy of 60% is achieved. This could further be improved by using a neural network instead of just an sklearn classifier. Also the winner depends upon how the players play and coordinate amongst themselves. 
 
