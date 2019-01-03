@@ -40,3 +40,9 @@ In this challenge, we had to predict the winner from 2 teams in a game of DOTA 2
 
 ### Back End 
 Logistic Regression (sklearn classifier) is used to construct a model that can fit the data. The data is preprocessed to match the requirements of the classifier. A testing accuracy of 60% is achieved. This could further be improved by using a neural network instead of just an sklearn classifier. Also the winner depends upon how the players play and coordinate amongst themselves. 
+
+## Prerequisites
+The following need to be preinstalled:
+
+1. Python 3.0 +
+2. Jupyter Notebook
