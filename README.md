@@ -48,3 +48,4 @@ The following need to be preinstalled:
 
 1. Python 3.0 +
 2. Jupyter Notebook
+3. A Kaggle account
